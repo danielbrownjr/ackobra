@@ -160,6 +160,7 @@
 #define EXP1_09_PIN                         -1
 #define EXP1_10_PIN                         -1
 
+//#define NO_CONTROLLER_CUSTOM_WIRING_WARNING
 #if HAS_DWIN_E3V2 || IS_DWIN_MARLINUI
   /**
    *        ------                ------                ------
